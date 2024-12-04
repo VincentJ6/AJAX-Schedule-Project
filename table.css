@@ -5,7 +5,7 @@ body {font-family: Verdana, sans-serif;}
 .month {
   padding: 70px 25px;
   width: 100%;
-  background: #1abc9c;
+  background: #db024a;
   text-align: center;
 }
 
@@ -40,7 +40,7 @@ body {font-family: Verdana, sans-serif;}
 .weekdays li {
   display: inline-block;
   width: 13.6%;
-  color: #666;
+  color: #000000;
   text-align: center;
 }
 
@@ -57,7 +57,7 @@ body {font-family: Verdana, sans-serif;}
   text-align: center;
   margin-bottom: 5px;
   font-size:12px;
-  color: #777;
+  color: #000000;
 }
 
 .days li .active {
