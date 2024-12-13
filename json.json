@@ -1,0 +1,60 @@
+{
+    "schedule": [
+      {
+        "period": "1",
+        "time": "8:24 AM - 9:31 AM",
+        "class_name": "Gym",
+        "teacher": "Razzino, Debra",
+        "room": "Gym",
+        "days": ["A", "B", "C","E","F"]
+      },
+      {
+        "period": "2",
+        "time": "9:00 AM - 10:00 AM",
+        "class_name": "Physics 2",
+        "teacher": "Mr.Reardon",
+        "room": "G202",
+        "days": ["A", "B", "D","E","F"]
+      },
+      {
+        "period": "3",
+        "time": "10:00 AM - 11:00 AM",
+        "class_name": "Honors NJIT IS219 Advanced Website Development W",
+        "teacher": "Herbert, Megan",
+        "room": "B114",
+        "days": ["A", "C", "D","E","G"]
+      },
+      {
+        "period": "4",
+        "time": "11:00 AM - 12:00 PM",
+        "class_name": "Honors Precalculus",
+        "teacher": "Palughi, Kimberly",
+        "room": "D209",
+        "days": ["B", "C", "D","F","G"]
+      },
+      {
+        "period": "6",
+        "time": "12:00 PM - 1:00 PM",
+        "class_name": "AP Microeconomics",
+        "teacher": "Erbig, Christian",
+        "room": "E115",
+        "days": ["A", "C", "D","F","G"]
+      },
+      {
+        "period": "5",
+        "time": "1:00 PM - 2:00 PM",
+        "class_name": "AP Psychology",
+        "teacher": "Brusotti, Melissa",
+        "room": "G108",
+        "days": ["A", "B", "D","E","G"]
+      },
+      {
+        "period": "7",
+        "time": "2:00 PM - 3:00 PM",
+        "class_name": "English 4",
+        "teacher": "Giblin, Patrick",
+        "room": " E103",
+        "days": ["B", "C", "E","F","G"]
+      }
+    ]
+  }
